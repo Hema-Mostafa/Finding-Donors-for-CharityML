@@ -1,7 +1,7 @@
 
 ### Note
-- This is my acceptance project in Machine Learning Cross-Skilling Nanodegree Program
-- All my code an answers exist in python notebook
+- This is my acceptance project in Machine Learning Cross-Skilling Nanodegree Program at Udacity
+- All my code and answers exist in python notebook
 
 # Supervised Learning
 ## Project: Finding Donors for CharityML
